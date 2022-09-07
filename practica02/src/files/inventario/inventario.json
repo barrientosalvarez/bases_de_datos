@@ -1,0 +1,44 @@
+{
+    "1": {
+        "ID": "1",
+        "Nombre": "Paracetamol",
+        "Categoria": "Analgesico",
+        "Precio": "50",
+        "Cantidad en existencia": "100"
+    },
+    "2": {
+        "ID": "2",
+        "Nombre": "Ibuprofeno",
+        "Categoria": "Desinflamatorio",
+        "Precio": "10",
+        "Cantidad en existencia": "80"
+    },
+    "3": {
+        "ID": "3",
+        "Nombre": "Amoxicilina",
+        "Categoria": "Antibiotico",
+        "Precio": "150",
+        "Cantidad en existencia": "24"
+    },
+    "4": {
+        "ID": "4",
+        "Nombre": "Salbutamol",
+        "Categoria": "Otros",
+        "Precio": "60",
+        "Cantidad en existencia": "15"
+    },
+    "5": {
+        "ID": "5",
+        "Nombre": "Aspirina",
+        "Categoria": "Otros",
+        "Precio": "50",
+        "Cantidad en existencia": "500"
+    },
+    "6": {
+        "ID": "6",
+        "Nombre": "Loratadina",
+        "Categoria": "Otros",
+        "Precio": "40",
+        "Cantidad en existencia": "56"
+    }
+}
